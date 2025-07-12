@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/parcat.dir/parcat.cpp.o  -o ../../../../bin/umake/gcc-7.5/x86_64/release/parcat ../../../../lib/umake/gcc-7.5/x86_64/release/libCommonLib.a ../../../../lib/umake/gcc-7.5/x86_64/release/libDecoderLib.a ../../../../lib/umake/gcc-7.5/x86_64/release/libUtilities.a ../../../../lib/umake/gcc-7.5/x86_64/release/libCommonLib.a 
